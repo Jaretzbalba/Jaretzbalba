@@ -1,6 +1,6 @@
 Hi there, I'm Jaret. 
 
-I am a software Engineering growing my skills in all things web development! 
+I am a software Engineer growing my skills in all things web development! 
 
 <!---
 Jaretzbalba/Jaretzbalba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
