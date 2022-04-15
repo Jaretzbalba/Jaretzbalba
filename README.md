@@ -1,5 +1,5 @@
 <h1 align="center">:wave:  Hi there! I'm Jaret, welcome to my GitHub.  :open_file_folder:</h1>
-<h2 align="center">I'm a ☀️: Los Angeles based software engineer coding full-stack Javascript applications.</h3>
+<h2 align="center">I'm a ☀️: Los Angeles based software engineer @ 100Devs coding full-stack Javascript applications.</h3>
 
 
 
