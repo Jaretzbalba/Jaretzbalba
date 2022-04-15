@@ -7,9 +7,9 @@
 
 - :alembic: I'm currently experimenting with **Google Maps API** ([Test Map])
 
-- :man_technologist: View my live projects at [https://jaretzbalba.netlify.app/](https://jaretzbalba.netlify.app/)
+- :man_technologist: View my live projects at [https://jaretzbalba.netlify.app](https://jaretzbalba.netlify.app)
 
-- 💬 Ask me about **The outdoors, food and tech**
+- 💬 Ask me about **the outdoors, food and tech**
 
 - 📫 How to reach me **Jaretzbalba@gmail.com**
 
