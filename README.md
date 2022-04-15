@@ -3,13 +3,11 @@
 
 
 
-- :construction: I’m currently working on **Reading Circle** ([Github repo](https://github.com/barbaralaw/reading_circle))
+- :construction: I’m currently working on **National Park Service Stamp Finder** ([NPS API](https://github.com/Jaretzbalba/NPS-Passport-Stamp-Finder))
 
-- :alembic: I'm currently experimenting with **CSS Drawing** ([gnome header](https://github.com/barbaralaw/playground))
+- :alembic: I'm currently experimenting with **Google Maps API** ([Test Map])
 
-- :dart: I’m currently focusing on **Native Web Component Design Systems** using [StencilJS](https://stenciljs.com/docs/introduction)
-
-- :woman_technologist: View my live projects at [https://jaretzbalba.netlify.app/](https://jaretzbalba.netlify.app/)
+- :man_technologist: View my live projects at [https://jaretzbalba.netlify.app/](https://jaretzbalba.netlify.app/)
 
 - 💬 Ask me about **The outdoors, food and tech**
 
