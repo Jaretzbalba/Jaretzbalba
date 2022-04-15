@@ -1,7 +1,3 @@
-Hi there, I'm Jaret. 
-
-I am a software Engineer growing my skills in all things web development! 
-
 <h1 align="center">:wave:  Hi there! I'm Jaret, welcome to my GitHub.  :open_file_folder:</h1>
 <h2 align="center">I'm a :palm_tree: Los Angeles based software engineer coding full-stack Javascript applications.</h3>
 
