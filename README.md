@@ -1,7 +1,8 @@
 <h1 align="center">:wave:  Hi there! I'm Jaret, welcome to my GitHub.  :open_file_folder:</h1>
-<h2 align="center">☀️ I'm a Los Angeles based Software Engineer @ 100Devs coding full-stack Javascript applications.</h3>
+<h2 align="center">☀️ I'm a Los Angeles based Software Engineer @ 100Devs coding full-stack Javascript applications.</h2>
 
-
+<p align="left">Detail-oriented, creative, software engineer based in Los Angeles with a passion for determining efficient solutions to complex problems. With a background in mechanical engineering, I am excited and driven by technical challenges, and the results of overcoming them have only transitioned into the world of coding. With a proven track record of creating and implementing successful front and back end web applications, I have only begun my journey and plan to learn and grow my skill set. Currently looking to bring my skills to a tech company with global reach and a strong sense of community. 
+</p>
 
 - :construction: I’m currently working on **National Park Service Stamp Finder** ([NPS API](https://github.com/Jaretzbalba/NPS-Passport-Stamp-Finder))
 
