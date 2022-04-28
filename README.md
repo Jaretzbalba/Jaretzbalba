@@ -1,4 +1,7 @@
-<h1 align="center">:wave:  Hi there! I'm Jaret, welcome to my GitHub.  :open_file_folder:</h1>
+<h2 align="center">
+  Hi there! I'm Jaret, welcome to my GitHub!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 <h2 align="center">☀️ I'm a Los Angeles based Software Engineer @ 100Devs coding full-stack Javascript applications.</h2>
 
 <p align="left">Detail-oriented, creative, software engineer based in Los Angeles with a passion for determining efficient solutions to complex problems. With a background in mechanical engineering, I am excited and driven by technical challenges, and the results of overcoming them have only transitioned into the world of coding.</p>
