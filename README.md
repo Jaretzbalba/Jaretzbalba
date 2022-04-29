@@ -2,7 +2,8 @@
   Hi there! I'm Jaret, welcome to my GitHub!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+%7C+Web+Developer;Based+in+Los+Angeles%2C+CA;Always+learning+new+things!"></h2>
+
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?duration=5000&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+Web+Developer;Based+in+Los+Angeles%2C+CA+or+Remote!;Always+learning+new+things!"></p>
 
 <p align="left">Detail-oriented, creative, software engineer based in Los Angeles with a passion for determining efficient solutions to complex problems. With a background in mechanical engineering, I am excited and driven by technical challenges, and the results of overcoming them have only transitioned into the world of coding.</p>
 
