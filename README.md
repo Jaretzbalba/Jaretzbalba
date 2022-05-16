@@ -28,10 +28,113 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="70"/> </a> </p>
 
+<!-- PROJECTS -->
+
+<h2 align="center" color="white">Projects</h2>
+<div align="center">
+	<table>
+		<tr>
+			<!--project 1 -->
+			<td width="50%">
+				<h3 align="center" color="white">NPS Passport Stamp Finder</h2>
+				<div align="center" > 
+					<a href="https://npsstampfinder.netlify.app/">
+						<img src="https://user-images.githubusercontent.com/93153059/168644155-bac68013-3b5d-416c-a135-6b39ce1bed4f.png" height="200px" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href='https://github.com/Jaretzbalba/NPS-Passport-Stamp-Finder'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+                        <!--live site --> 
+						<a href="https://npsstampfinder.netlify.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						</a>	
+					</p>
+					<p><strong>JavaScript, CSS3, HTML5</strong> - Find NPS Passport stamp locations in each National Park</p>
+				</div>
+			</td>
+			<!--project 2 -->
+			<td width="50%">
+				<h3 align="center" color="white">Know It All</h2>
+				<div align="center" > 
+					<a href="https://dailytriviaquestion.netlify.app/">
+						<img src="https://user-images.githubusercontent.com/93153059/168650294-618692c2-770a-4cb9-9e32-fafcd68cd881.png" height="200px" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href='https://github.com/Jaretzbalba/Daily-Trivia-Question/blob/main/README.md'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+                        <!--live site --> 
+						<a href="https://dailytriviaquestion.netlify.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						</a>	
+					</p>
+					<p><strong>JavaScript, CSS3, HTML5</strong> - A trivia question game to test if you truly "Know It All"</p>
+				</div>
+			</td>
+		<tr>
+			<!--project 3 -->
+			<td width="50%">
+				<h3 align="center" color="white">LA Astronomers Society: Photo of the Day </h2>
+				<div align="center" > 
+					<a href="https://laastronomerssociety.netlify.app/">
+						<img src="https://user-images.githubusercontent.com/93153059/168647977-da99b251-9a09-467f-bb21-32f7d97510e2.png" height="200px" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href='https://github.com/Jaretzbalba/la-astronomers-society-api'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+                        <!--live site --> 
+						<a href="https://laastronomerssociety.netlify.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						</a>	
+					</p>
+					<p><strong>React, D3.js, CSS3, HTML5</strong> - NASA Photo of the day app</p>
+				</div>
+			</td>
+			<!--project 4 -->
+			<td width="50%">
+				<h3 align="center" color="white">The Coffee Spot</h2>
+				<div align="center" > 
+					<a href="https://thecoffeespot.netlify.app/">
+						<img src="https://user-images.githubusercontent.com/93153059/168656159-88e7ed1f-3e3a-450f-afa2-f0d6116d5f6d.png" height="200px" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href='https://github.com/Jaretzbalba/the-coffee-spot'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+                        <!--live site --> 
+						<a href="https://thecoffeespot.netlify.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						</a>	
+					</p>
+					<p><strong>JavaScript, CSS3, HTML5</strong> - A simple site for a café</p>
+				</div>
+			</td>
+	</table>
+</div>
+<br />
+
+---
+
+<br>
+
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jaretzbalba&show_icons=true&theme=vue-dark&locale=en" alt="barbaralaw" /></p> -->
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaretzbalba&theme=vue-dark" alt="barbaralaw" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaretzbalba&theme=vue-dark" alt="barbaralaw" /></p>
 <!---
 Jaretzbalba/Jaretzbalba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
