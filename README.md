@@ -9,7 +9,7 @@
 
 - :construction: I’m currently working on **National Park Service Stamp Finder** ([NPS API](https://github.com/Jaretzbalba/NPS-Passport-Stamp-Finder))
 
-- :alembic: I'm currently experimenting with **Google Maps API** ([Test Map])
+- :alembic: I'm currently experimenting with **Bootstrap**
 
 - :man_technologist: View my live projects at [https://jaretzbalba.netlify.app](https://jaretzbalba.netlify.app)
 
