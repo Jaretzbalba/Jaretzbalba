@@ -84,7 +84,7 @@
 				<h3 align="center" color="white">Purrfect Pics </h2>
 				<div align="center" > 
 					<a href="https://purrfect-pics.onrender.com/">
-						<img src="https://user-images.githubusercontent.com/93153059/168647977-da99b251-9a09-467f-bb21-32f7d97510e2.png" height="200px" />
+						<img src="https://user-images.githubusercontent.com/93153059/212189925-b4e76fa6-d96e-439e-a5e9-dd899aa87b58.png" height="200px" />
 					</a>
 					<br>
 					<br>
@@ -106,8 +106,7 @@
 				<h3 align="center" color="white">Mood.Map</h2>
 				<div align="center" > 
 					<a href="https://mood-map.onrender.com/">
-						<img src="[screencapture-localhost-4000-2023-01-06-09_04_39.pdf](https://github.com/Jaretzbalba/Jaretzbalba/files/10406241/screencapture-localhost-4000-2023-01-06-09_04_39.pdf)
-" height="200px" />
+						<img src="https://user-images.githubusercontent.com/93153059/212189439-f651c541-4d07-4af2-bed1-679202f07d18.png" height="200px" />
 					</a>
 					<br>
 					<br>
