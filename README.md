@@ -81,46 +81,46 @@
 		<tr>
 			<!--project 3 -->
 			<td width="50%">
-				<h3 align="center" color="white">LA Astronomers Society: Photo of the Day </h2>
+				<h3 align="center" color="white">Purrfect Pics </h2>
 				<div align="center" > 
-					<a href="https://laastronomerssociety.netlify.app/">
+					<a href="https://purrfect-pics.onrender.com/">
 						<img src="https://user-images.githubusercontent.com/93153059/168647977-da99b251-9a09-467f-bb21-32f7d97510e2.png" height="200px" />
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--repo --> 
-						<a href='https://github.com/Jaretzbalba/la-astronomers-society-api'>
+						<a href='https://github.com/Jaretzbalba/Purrfect-Pics'>
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
                         <!--live site --> 
-						<a href="https://laastronomerssociety.netlify.app/">
+						<a href="https://purrfect-pics.onrender.com/">
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
 						</a>	
 					</p>
-					<p><strong>React, D3.js, CSS3, HTML5</strong> - NASA Photo of the day app</p>
+					<p><strong>MongoDB, Express, Node, EJS</strong> - A social media app for cat lovers</p>
 				</div>
 			</td>
 			<!--project 4 -->
 			<td width="50%">
-				<h3 align="center" color="white">The Coffee Spot</h2>
+				<h3 align="center" color="white">Mood.Map</h2>
 				<div align="center" > 
-					<a href="https://thecoffeespot.netlify.app/">
+					<a href="https://mood-map.onrender.com/">
 						<img src="https://user-images.githubusercontent.com/93153059/168656159-88e7ed1f-3e3a-450f-afa2-f0d6116d5f6d.png" height="200px" />
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--repo --> 
-						<a href='https://github.com/Jaretzbalba/the-coffee-spot'>
+						<a href='https://github.com/Jaretzbalba/MoodMap'>
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
                         <!--live site --> 
-						<a href="https://thecoffeespot.netlify.app/">
+						<a href="https://mood-map.onrender.com/">
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
 						</a>	
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5</strong> - A simple site for a café</p>
+					<p><strong>MongoDB, Express, Node, EJS</strong> - A mental health app to help track your daily mood</p>
 				</div>
 			</td>
 	</table>
