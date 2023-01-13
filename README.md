@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Jaretzbalba@gmail.com**
 
-- 🏔️: Fun fact: **I'm getting married in Iceland this year!**
+- 🏔️: Fun fact: **I got married in Iceland this past year!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
