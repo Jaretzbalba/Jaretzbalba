@@ -9,7 +9,7 @@
 
 - :construction: I’m currently working on **[Cook's Companion](<!--Add website here-->)**
 
-- :alembic: I'm currently experimenting with **Bootstrap**
+- :alembic: I'm currently experimenting with **React**
 
 - :man_technologist: View my live projects at [https://jaretzbalba.netlify.app](https://jaretzbalba.netlify.app)
 
