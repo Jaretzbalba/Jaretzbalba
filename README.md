@@ -7,7 +7,7 @@
 
 <p align="left">Detail-oriented, creative, software engineer based in Los Angeles with a passion for determining efficient solutions to complex problems. With a background in mechanical engineering, I am excited and driven by technical challenges, and the results of overcoming them have only transitioned into the world of coding.</p>
 
-- :construction: I’m currently working on **[Cook's Companion](<!--Add website here-->)**
+- :construction: I’m currently working on **[Sarap](<!--Add website here-->)**
 
 - :alembic: I'm currently experimenting with **React**
 
