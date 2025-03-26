@@ -9,11 +9,11 @@
 
 - :construction: I’m currently enrolled at PENN in their MCIT program
 
-- :alembic: I'm currently experimenting with **React**
+- :alembic: I'm currently experimenting with **Java**
 
 - :man_technologist: View my live projects at [https://jaretzbalba.netlify.app](https://jaretzbalba.netlify.app)
 
-- 💬 Ask me about **the outdoors, food and tech**
+- 💬 Ask me about **the outdoors, food and running**
 
 - 📫 How to reach me **Jaretzbalba@gmail.com**
 
@@ -21,7 +21,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/JaretBalba" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="JaretzBalba" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/jaret-z-balba/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="JaretBalba" height="50" width="50" /></a>
 </p>
 
